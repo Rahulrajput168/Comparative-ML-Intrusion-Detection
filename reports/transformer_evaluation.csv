@@ -1,0 +1,2 @@
+model,best_epoch,accuracy,precision,recall,f1_score,best_validation_loss
+Tabular Transformer,27,0.8037171753016323,0.9261962692619627,0.7119145951842905,0.8050403136978456,0.011983080182061274

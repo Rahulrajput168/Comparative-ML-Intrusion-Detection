@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1 Score,Training Time,Best Hidden Layers,Best Alpha,Best Learning Rate,Validation Accuracy
+Deep Learning - MLP,80.09226401703336,97.15222058989717,66.99135042468636,79.30080250899364,97.45500898361206,"(256, 128, 64)",0.001,0.0005,99.69305673158341

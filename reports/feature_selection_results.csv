@@ -1,0 +1,3 @@
+Model,Features,Accuracy,Precision,Recall,F1 Score
+XGBoost - All Features,122,79.58,96.91,66.24,78.69
+XGBoost - Top 50 Features,50,79.6486870120653,96.90522243713733,66.36795760928855,78.78087133475165

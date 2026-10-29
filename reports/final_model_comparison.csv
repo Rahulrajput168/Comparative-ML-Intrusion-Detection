@@ -1,0 +1,11 @@
+Model,Category,Features,Accuracy,Precision,Recall,F1 Score
+Logistic Regression,Traditional ML,122,75.3815,91.7364,62.3705,74.2555
+Decision Tree,Traditional ML,122,78.5442,96.4776,64.6692,77.4341
+Random Forest,Traditional ML,122,76.4771,96.7006,60.7496,74.6207
+KNN,Traditional ML,122,77.0449,92.3375,65.0744,76.345
+SVM,Traditional ML,122,78.695,92.5408,68.0589,78.4338
+XGBoost,Gradient Boosting,122,79.58,96.91,66.24,78.69
+Feature-Selected XGBoost,Gradient Boosting + Feature Selection,50,79.6487,96.9052,66.368,78.7809
+Deep Learning - MLP,Deep Learning - MLP,122,80.0923,97.1522,66.9914,79.3008
+Optimized XGBoost,Gradient Boosting - Optimized,122,79.2362,96.8398,65.6666,78.2633
+Tabular Transformer,Deep Learning - Transformer,122,80.3717,92.6196,71.1915,80.504

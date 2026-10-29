@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1 Score,Optimization Time (seconds)
+Optimized XGBoost,79.236160397445,96.83980694093312,65.66664069196602,78.2632923148363,63.48519992828369
